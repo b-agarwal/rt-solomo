@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AmazonDB</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_note">Enter the SQL Query</string>
+    <string name="submit_button_text">Submit</string>
+    <string name="query_text">select itemName() from `Haha`</string>
+    <string name="query_result">Results...</string>
+    <string name="on_click_handler">onClickHandler</string>
+
+</resources>
