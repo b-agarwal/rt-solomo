@@ -1,0 +1,8 @@
+INDEX VERSION 1.126+C:\Users\acer\Documents\NetBeansProjects\rt-solomo\.metadata\.plugins\org.eclipse.jdt.core
+3352491446.index
+848856923.index
+1665642232.index
+1856695618.index
+3977923229.index
+389502411.index
+3733832246.index
