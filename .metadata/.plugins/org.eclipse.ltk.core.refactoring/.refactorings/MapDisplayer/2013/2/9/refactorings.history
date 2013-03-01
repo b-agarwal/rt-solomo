@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Change Layout" description="Change Layout" file="/MapDisplayer/res/layout/activity_main.xml" flags="6" flatten="true" id="com.android.ide.eclipse.adt.refactoring.convert" proj="/MapDisplayer" sel-end="641" sel-start="40" stamp="1361981716964" type="android.widget.AbsoluteLayout"/>&#x0A;<refactoring comment="Change Layout" description="Change Layout" file="/MapDisplayer/res/layout/activity_main.xml" flags="6" flatten="true" id="com.android.ide.eclipse.adt.refactoring.convert" proj="/MapDisplayer" sel-end="459" sel-start="40" stamp="1361982330802" type="android.widget.RelativeLayout"/>
+</session>

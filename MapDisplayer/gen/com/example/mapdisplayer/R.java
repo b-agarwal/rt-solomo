@@ -141,10 +141,13 @@ containing a value of this type.
         public static final int ic_launcher=0x7f020000;
     }
     public static final class id {
-        public static final int action_settings=0x7f040005;
-        public static final int map=0x7f040004;
+        public static final int action_settings=0x7f040008;
+        public static final int button1=0x7f040007;
+        public static final int editText1=0x7f040006;
+        public static final int map=0x7f040005;
         public static final int none=0x7f040000;
         public static final int normal=0x7f040001;
+        public static final int root_layout=0x7f040004;
         public static final int satellite=0x7f040002;
         public static final int terrain=0x7f040003;
     }
@@ -157,6 +160,7 @@ containing a value of this type.
     public static final class string {
         public static final int action_settings=0x7f05000c;
         public static final int app_name=0x7f05000b;
+        public static final int button_name=0x7f05000e;
         /**  Button in confirmation dialog to enable Google Play services.  Clicking it
         will direct user to application settings of Google Play services where they
         can enable it [CHAR LIMIT=30] 
@@ -201,6 +205,7 @@ containing a value of this type.
          */
         public static final int common_google_play_services_update_title=0x7f050007;
         public static final int hello_world=0x7f05000d;
+        public static final int speak_onclick_handler=0x7f05000f;
     }
     public static final class style {
         /** 
