@@ -1,0 +1,10 @@
+package com.example.rush.fragments;
+
+import android.annotation.TargetApi;
+import android.app.Fragment;
+import android.os.Build;
+
+@TargetApi(Build.VERSION_CODES.HONEYCOMB)
+public class HeaderFragment extends Fragment {
+
+}

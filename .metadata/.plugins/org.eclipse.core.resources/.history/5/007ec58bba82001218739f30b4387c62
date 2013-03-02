@@ -1,0 +1,7 @@
+package com.example.rush.fragments;
+
+import android.app.Fragment;
+
+public class HeaderFragment extends Fragment {
+
+}
